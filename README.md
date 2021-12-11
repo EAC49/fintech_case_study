@@ -56,23 +56,43 @@ References
 3 - https://xrpl.org/history.html
 
 4 - https://www.finsmes.com/2013/04/opencoin-closes-angel-funding.html
+
 5 - https://ripple.com/ripplenet
+
 6 - https://ripple.com/customers
+
 7 - https://ripple.com/xrp/
+
 8 - https://ripple.com/insights/ripples-mission-in-action/
+
 9 - https://ripple.com/insights/ripple-pilots-a-private-ledger-for-central-banks-launching-cbdcs/
+
 10 - https://patents.justia.com/assignee/ripple-labs-inc
+
 11 - https://www.forbes.com/sites/googlecloud/2021/02/05/6-trends-that-will-shape-the-financial-services-industry-in-2021/?sh=10be836642b6
+
 12 - https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual
+
 13 - https://www.sec.gov/news/press-release/2020-338
+
 14 - https://www.iso20022.org/
+
 15 - https://www.findlaw.com/consumer/securities-law/what-is-the-howey-test.html
+
 1 - https://startupstips.com/unicorn-fintech-companies/#Ripple.
+
 16 - https://ripple.com/insights/ripple-liquidity-hub-for-the-enterprise/
+
 17 - https://www.buybitcoinworldwide.com/dollar-devaluation/#:~:text=The%20dollar%20has%20lost%20over,over%20the%20US%20banking%20system.
+
 18 - https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/new-trends-in-us-consumer-digital-payments
+
 19 - https://www.imf.org/en/News/Articles/2020/10/15/sp101520-a-new-bretton-woods-moment
+
 20 - https://ripple.com/insights/a-vision-for-federated-sidechains-xrp-ledger/
+
 21 - https://en.wikipedia.org/wiki/Ripple_Labs
+
 22 - https://en.wikipedia.org/wiki/Ripple_(payment_protocol)
+
 23 - https://ripple.com/company
