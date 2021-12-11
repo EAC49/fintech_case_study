@@ -52,7 +52,9 @@ As much as XRP facilitates the use of RippleNet, Ripple should detach themselves
 References
 
 2 - https://www.youtube.com/watch?v=f9KqSgRZYgg&t=82s
+
 3 - https://xrpl.org/history.html
+
 4 - https://www.finsmes.com/2013/04/opencoin-closes-angel-funding.html
 5 - https://ripple.com/ripplenet
 6 - https://ripple.com/customers
